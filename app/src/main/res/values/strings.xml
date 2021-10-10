@@ -3,4 +3,21 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+
+    <string name="correct_answer">Odpowiedź poprawna.</string>
+    <string name="incorrect_answer">Odpowiedź niepoprawna.</string>
+
+    <!--Pytania-->
+    <string name="q_1">Królowe pszczół mogą żyć do 5 lat.</string>
+    <string name="q_2">Pszczoły nie rozpoznają koloru czerwonego.</string>
+    <string name="q_3">Pszczoła podczas jednego lotu odwiedza nawet do 1000 kwiatów.</string>
+    <string name="q_4">Istnieje około 20 000 gatunków pszczół.</string>
+    <string name="q_5">Pszczoły płci męskiej to trutnie.</string>
+    <string name="q_6">Pszczoły zapadają w hibernację na zimę.</string>
+    <string name="q_7">Pszczoły porozumiewają się ze sobą tańcząc.</string>
+    <string name="q_8">Średnia prędkość lotu pszczoły to 10 km/h.</string>
+    <string name="q_9">Pszczoła miodna posiada 4 skrzydła.</string>
+    <string name="q_10">Wosk nie jest produktem pszczelim.</string>
+
+
 </resources>

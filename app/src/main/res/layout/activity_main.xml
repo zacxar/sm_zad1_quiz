@@ -2,22 +2,24 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
-    android:layout_gravity="center"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <!--Przycisk "Następne"-->
-    <Button
-        android:id="@+id/next_button"
+    <TextView
+        android:id="@+id/question_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_next" />
+        android:layout_gravity="center"
+        android:padding="30dp"
+        android:text="" />
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:orientation="horizontal">
 
         <!--Przycisk "Fałsz"-->
@@ -35,16 +37,12 @@
             android:text="@string/button_true" />
     </LinearLayout>
 
-    <TextView
-        android:padding="30dp"
-        android:id="@+id/question_text_view"
+    <!--Przycisk "Następne"-->
+    <Button
+        android:id="@+id/next_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_gravity="center"
+        android:text="@string/button_next" />
 
 </LinearLayout>
