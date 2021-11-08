@@ -3,9 +3,15 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
 
     <string name="correct_answer">Odpowiedź poprawna.</string>
     <string name="incorrect_answer">Odpowiedź niepoprawna.</string>
+
+    <string name="button_show_correct_answer">Pokaż odpowiedź</string>
+    <string name="text_prompt">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 
     <!--Pytania-->
     <string name="q_1">Królowe pszczół mogą żyć do 5 lat.</string>
